@@ -6,4 +6,7 @@ public class TestingProg1 {
 		System.out.println("line2");
 	}
 
+	void test1(){
+		System.out.println("test1");
+	}
 }
