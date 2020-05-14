@@ -1,9 +1,7 @@
 package com.test;
 
-public class TestingProg1 {
+public class TestingProg2 {
 	public static void main(String[] args) {
 		System.out.println("line1");
-		System.out.println("line2");
 	}
-
 }
